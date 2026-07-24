@@ -1,10 +1,17 @@
-## Hi, I'm Flowrith 👋
-A 3rd semester university student with compsci major
+# Hi, I'm Flowrith 👋
 
-Currently, I'm still studying about bunch of stuff for developing things.
+A 3rd semester Computer Science student.
 
-Perhaps I'll just create whatever I have in my mind and use any tech that I may be interested on
+I'm still learning, experimenting, and occasionally breaking things.
 
+If a technology looks interesting, there's a good chance I'll try it.
+
+This GitHub is basically a collection of things I wanted to build and whatever I learned along the way.
+
+,  that I may be able to use
+## As for now here's the things/stuff I'm comfortable enough to break
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,php,c,java,git,github)](https://skillicons.dev)
 <!--
 **Flowrith/Flowrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
