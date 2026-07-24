@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Flowrith 👋
+A 3rd semester university student with compsci major
+
+Currently, I'm still studying about bunch of stuff for developer stuff, and perhaps I'll just create whatever I have in my mind and use any tech that I may be interested on
 
 <!--
 **Flowrith/Flowrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
