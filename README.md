@@ -8,7 +8,6 @@ If a technology looks interesting, there's a good chance I'll try it.
 
 This GitHub is basically a collection of things I wanted to build and whatever I learned along the way.
 
-,  that I may be able to use
 ## As for now here's the things/stuff I'm comfortable enough to break
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,php,c,git,github,figma)](https://skillicons.dev)
