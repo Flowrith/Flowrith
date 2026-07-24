@@ -11,7 +11,7 @@ This GitHub is basically a collection of things I wanted to build and whatever I
 ,  that I may be able to use
 ## As for now here's the things/stuff I'm comfortable enough to break
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,php,c,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,php,c,git,github,figma)](https://skillicons.dev)
 <!--
 **Flowrith/Flowrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
