@@ -13,7 +13,7 @@ This GitHub is basically a collection of things I've wanted to build and everyth
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,php,figma)](https://skillicons.dev)
 
 ## Also, these are the technologies I'm actively improving.
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,figma)](https://skillicons.dev)
 
 Thanks for stopping by!, be careful out there
 
